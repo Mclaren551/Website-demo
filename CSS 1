@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test</title>
+    <style>
+        p{
+            color:red;
+        }
+    </style>
+</head>
+<body>
+    <p>Hello there</p>
+    <p class="test">Testing Css selector</p>
+    <p class="test">More testing</p>
+</body>
+</html>
